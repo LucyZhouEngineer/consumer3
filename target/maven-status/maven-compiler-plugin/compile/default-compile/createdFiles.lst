@@ -1,0 +1,10 @@
+app/Structure/LiftRideRecord.class
+app/Main.class
+app/Structure/LiftRide.class
+app/Structure/LiftRideRequest.class
+app/Consumer$1.class
+app/ChannelPool.class
+app/Consumer$ConsumerWorker.class
+app/LiftRideDAO.class
+app/DataSource.class
+app/Consumer.class
